@@ -15,8 +15,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>slide- 1 </h3>
-                        <p>“I need you like a heart needs a beat.” – Unknown</p>
+                        <h3>JOURNALING </h3>
+                        <p>Journaling allows you to remove any negative emotions from your head and get them down on paper, releasing them from your mind.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={500}>
@@ -26,8 +26,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>slide-2</h3>
-                        <p>“If I know what love is, it is because of you.” – Hermann Hesse</p>
+                        <h3>MINDFULNESS</h3>
+                        <p>Mindfulness is a type of meditation that allows you to be fully present and aware of what is happening inside you and around you – Hermann Hesse</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -38,8 +38,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3 className="d-none imgs d-sm-block d-md-block d-lg-block">slid-3</h3>
-                        <p>“You call it madness, but I call it love.”</p>
+                        <h3 className="d-none imgs d-sm-block d-md-block d-lg-block">EXERCISE</h3>
+                        <p>Use your exercise time as a way to focus and relieve stress. This means no multi-tasking!</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

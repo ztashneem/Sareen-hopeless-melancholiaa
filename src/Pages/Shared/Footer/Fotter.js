@@ -3,7 +3,7 @@ import { VscTwitter } from 'react-icons/vsc';
 import { FaFacebookF, FaInstagram } from 'react-icons/fa';
 import { TiSocialVimeo } from 'react-icons/ti';
 import { Nav } from 'react-bootstrap';
-import massiologo from '../../../images/photoghraper/massio1.png'
+import logo from '../../../images/logo-removebg-preview.png'
 const Fotter = () => {
     const getYears = new Date();
     let year = getYears.getFullYear();
@@ -12,10 +12,10 @@ const Fotter = () => {
             <div className='container'>
                 <div className="row footer py-5 text-center">
                     <div className="col-md-4 col-12">
-                        <p>&copy; {year} Missio. All rights reserved. <br /> Develop By <span className='text-muted'>SaJeeb Ahmed</span> </p>
+                        <p>&copy; {year} Sareen. All rights reserved. <br /> Develope By <span className='text-muted'>Abantee</span> </p>
                     </div>
                     <div className="col-md-4 col-12">
-                        <img style={{ width: '110px', height: '55px' }} className='img-fluid imgs' src={massiologo} alt="" />
+                        <img style={{ width: '110px', height: '55px' }} className='img-fluid imgs' src={logo} alt="" />
                     </div>
                     <div className="col-md-4 col-12 nav_socials mx-auto">
                         <Nav className='links'>

@@ -4,7 +4,9 @@
     grid-gap: 20px;
     overflow-x: hidden;
 }
-
+.bg-story{
+    background-color: #ffffff !important;
+}
 .cards {
     border-radius: 34px;
     border: none;

@@ -1,6 +1,5 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import pakege from '../../images/photoghraper/pakeges.png';
 import { BsArrowRightCircleFill } from 'react-icons/bs'
 import './Checkout.css'
 import CheckOutInfo from './CheckOutInfo';
@@ -19,18 +18,15 @@ const Checkout = () => {
                     </div>
                     <div className="col-md-7 col-12 mt-2 p-lg-2">
                         <p className='mission'>
-                            <li> Our mission is to / We are dedicated to / We put a strong emphasis</li>
-
-                            <li>With a passion for / We are passionate about / We believe</li>
-
-                            <li>Make your dreams a reality / Bring your vision to life / Dream wedding</li>
-
-                            <li>Make things as easy as possible / As stress-free as possible </li>
-
-                            <li>Go the extra mile/Go above and beyond/Take it to the next level</li>
-                            <li>Best day ever / Once-in-a-lifetime</li>
-                            <li>Represent who you are / Reflect you as a couple </li>
-                            <li> Perfect day / Special day / Best day of your life </li>
+                           <li>
+                           “The advice I’d give to somebody that’s silently struggling is, you don’t have to live that way. You don’t have to struggle in silence. You can be un-silent. You can live well with a mental health condition, as long as you open up to somebody about it, because it’s really important you share your experience with people so that you can get the help that you need.
+                           </li>
+                           <li>
+                           “I found that with depression, one of the most important things you can realize is that you’re not alone. You’re not the first to go through it, you’re not gonna be the last to go through it,”
+                           </li>
+                           <li>
+                           “There is hope, even when your brain tells you there isn’t.”
+                           </li>
                         </p>
                     </div>
                 </div>
@@ -41,12 +37,7 @@ const Checkout = () => {
                         </CheckOutInfo>
                     </div>
                 </div>
-                <div className="row text-center">
-
-                    <div className="img-fluid col-md-12 col-12">
-                        <img src={pakege} className='img-fluid imgs' alt="" />
-                    </div>
-                </div>
+               
 
 
             </div>

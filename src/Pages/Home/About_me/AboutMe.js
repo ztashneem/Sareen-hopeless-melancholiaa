@@ -8,7 +8,7 @@ const AboutMe = () => {
 
                 <div className="col-md-4 col-12 py-lg-5 ">
                     <p className='abouts text-center'>
-                        i have been trying to get into Software /Web Development sector for a long time but couldn't , because it is quite difficult to learn and maintain that consistency if you are learning alone . This Course helped me a lot to understand development process in web development and build real world projects which made my interviews easy and comfortable in future . Their support System is awesome . i would Highly recommend anyone about this course if he/she really wants to get into this sector and wiling to work hard for it
+                    Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth.
                     </p>
                 </div>
                 <div className="col-md-2 col-12 margin py-lg-5">

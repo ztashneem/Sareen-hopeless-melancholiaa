@@ -5,8 +5,8 @@ const Expensive = () => {
         <div className='container-fluid nathan'>
             <div className='quotes row '>
 
-                <h5 className='col-12'>
-                    " The desire to discover, the willing of the emotion, the taste of telling... " <br />
+                <h5 className='col-12 text-dark'>
+                "I feel less stressed, anxious, and depressed. It's really a great option for anyone looking for affordable help!" <br />
                     Helmut Newton
                 </h5>
 
