@@ -1,0 +1,47 @@
+.header-bg{
+    background-color: #FEFEFE;
+}
+.navlinks {
+    margin: 0 auto;
+}
+
+.navlinks a {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.nav_socials a {
+    font-size: 20px;
+
+}
+
+.links a {
+    color: #d7d2d2a5 !important;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.links a:hover {
+    color: #ffffff !important;
+}
+
+.fosvimeoi {
+    font-size: 25px;
+}
+
+.brand img {
+    object-fit: cover;
+}
+
+.logoutuser {
+    display: flex;
+    justify-content: center;
+
+}
+
+.logo_user img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+}
