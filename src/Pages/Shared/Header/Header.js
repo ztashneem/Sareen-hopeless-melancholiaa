@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import logo from '../../../images/logo.jpg';
+import logo from '../../../images/logo.png';
 import './Header.css';
-import logoUser from '../../../images/logo.jpg'
+import logoUser from '../../../images/Banner/69.jpg'
 import { VscTwitter } from 'react-icons/vsc';
 import { FaFacebookF, FaInstagram } from 'react-icons/fa';
 import { TiSocialVimeo } from 'react-icons/ti';
@@ -22,7 +22,7 @@ const Header = () => {
 
             <Navbar collapseOnSelect expand="lg"  variant="light">
                 <Container >
-                    <Navbar.Brand className='mx-auto brand' ><img className='img-fluid imgs' src={logo} alt="" /></Navbar.Brand>
+                    <Navbar.Brand className='mx-auto brand' ><img className='img-fluid ' src={logo} alt="" /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">

@@ -1,0 +1,18 @@
+.cardimg {
+    position: relative;
+    display: inline-block;
+}
+
+.cardimg .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: auto;
+    height: auto;
+}
+
+.cardimg:hover .img-top {
+    display: inline;
+}

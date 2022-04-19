@@ -1,0 +1,9 @@
+.font-uppercase {
+    text-transform: uppercase !important;
+}
+
+.table {
+    border: none !important;
+
+    padding: 8px;
+}
