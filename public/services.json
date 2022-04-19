@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Strategic-consulting",
+        "price": "999",
+        "description": "We study the impact of technologies on industries and consumer behavior, identify threats and opportunities which arise with the spread of new technologies.",
+        "img": "https://i.ibb.co/b2LfJpt/2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Analytics-research",
+        "price": "799",
+        "description": "We study industries, competitors and consumers. We collect and analyze data to make reasoned decisions. We prepare materials to support external communication and other business development activities.",
+        "img": "https://i.ibb.co/GvcKgjp/3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Trainings",
+        "price": "550",
+        "description": "We conduct intensive trainings on new technologies and digital transformation We stimulate changes by raising awareness of employees and top-managers.",
+        "img": "https://i.ibb.co/ZhLyt8h/5.png"
+    }
+]
