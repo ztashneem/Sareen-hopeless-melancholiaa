@@ -18,8 +18,8 @@ const Banner = () => {
                     />
                    
                     <Carousel.Caption>
-                        <h3>Mental Health Awareness</h3>
-                        <p>We believe the world needs a mental health boost.</p>
+                        <h3 className='d-none d-sm-block d-md-block'>Mental Health Awareness</h3>
+                        <p className='d-none d-sm-block d-md-block'>We believe the world needs a mental health boost.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item interval={500}>
@@ -29,8 +29,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>A Bit Of An Intro</h3>
-                        <p>We need everything we can get our hands on to help bust through the stigma surrounding mental health.</p>
+                        <h3 className='d-none d-sm-block d-md-block'>A Bit Of An Intro</h3>
+                        <p className='d-none d-sm-block d-md-block'>We need everything we can get our hands on to help bust through the stigma surrounding mental health.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,8 +40,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>Please Welcome To The Stage</h3>
-                        <p>We gain the confidence that it is OK to need and seek out help the best lives </p>
+                        <h3 className='d-none d-sm-block d-md-block'>Please Welcome To The Stage</h3>
+                        <p className='d-none d-sm-block d-md-block'>We gain the confidence that it is OK to need and seek out help the best lives </p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
