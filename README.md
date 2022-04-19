@@ -1,18 +1,36 @@
-# Getting Started with Create React App
+# Welcome To Sareen-Hopeless Melancholia
+Live App  [Sareen-Hopeless Melancholia](https://sareen-hopeless-melancholia.web.app/).
+## Overused marketing phrases
+### Featured 
+              1. FEP EUROPEAN Mental Health OF THE YEAR 2020  
+                  1. With a passion for / We are passionate about / We believe 
+                    2. Make your dreams a reality / Bring your vision to life 
+                   3. Go the extra mile / Go above and beyond / Take it to the next level 
+                   4.Perfect day / Special day / Best day of your life / Best day ever / Once-in-a-lifetime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## So what should I do instead?
+* The Essentials
+              * Is this submission addressed to me or my publication?
+                  * Has this shoot been submitted or published elsewhere
+          * The Images 
+          * Have the images been edited in a consistent style for seamless flow?
 
-## Available Scripts
+* Have enough images been supplied to tell a compelling story?
 
-In the project directory, you can run:
+*  How much time will it take to sort through the images and make a selection?
 
-### `npm start`
+*  Does this shoot feature images that will resonate with our followers on Instagram and Facebook?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*  Does this shoot feature portrait images of details that will appeal on Pinterest?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Use Tools 
+
+Tools | Assists | Meterials
+| :--- | ---: | :---:
+ React Authentication |  React Bootstrap |  React firebase hooks
+ React Icons | React Router | Components
+React Hot Toast   | React Dom | RequireAuth
+Vs Code  | Firebase| Google Authentication 
 
 ### `npm test`
 
