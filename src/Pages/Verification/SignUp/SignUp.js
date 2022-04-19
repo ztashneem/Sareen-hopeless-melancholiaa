@@ -4,7 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import auth from "../../../firebase.init";
-
+import Loading from "../../Shared/Loading/Loading";
 
 import '../Login/Login.css'
 import SocialLogin from "../SocialLogin/SocialLogin";
@@ -27,7 +27,7 @@ const SignUp = () => {
     }
 
     if (loading || updating || sending) {
-        // return <Loading></Loading>;
+        return <Loading></Loading>;
     }
 
     if (error) {
